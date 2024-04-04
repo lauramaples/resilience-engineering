@@ -179,6 +179,7 @@ Baker tweets as [@thehopmentor](https://twitter.com/thehopmentor).
 * [A short introduction to human and organizational performance (hop) and learning teams](http://www.safetydifferently.com/a-short-introduction-to-human-and-organizational-performance-hop-and-learning-teams/) (blog post)
 
 ## E. Asher Balkin
+Asher is a Research Engineer at the Ohio State University and a consultant bringing Resilience Engineering theory into practice. A close collaborator with Dr. David Woods and Dr. Richard Cook, he has studied and worked in fields as diverse as public health, international security, surgical research, and human/automation interaction.
 
 ### Selected publications
 
@@ -790,7 +791,7 @@ Klein tweets as [@KleInsight](https://twitter.com/KleInsight).
 
 ## Elizabeth Lay
 
-Elizabeth Lay is a resilience engineering practitioner. She is currently a director of safety and human performance at Lewis Tree Service.
+Elizabeth Lay is a resilience engineering practitioner. She is currently Director of Consulting Solutions at ForgeWorks.
 
 ### Selected publications
 
@@ -857,10 +858,9 @@ Macrae tweets at [@CarlMacrae](https://twitter.com/CarlMacrae).
 ## Laura Maguire
 
 [Maguire](https://www.linkedin.com/in/lauramaguire/) is a cognitive systems
-engineering researcher with a PhD from Ohio State
-University. Maguire has done safety work in multiple domains, including
-forestry, avalanches, and software services. She currently works as a researcher
-at [jeli.io](jeli.io)
+engineer and researcher with a PhD from Ohio State
+University and a Masters in Human Factors & Systems Safety from Lund University. Maguire has done safety work in multiple domains, including
+forestry, avalanches, and software services. She is the founder and Principal Research Engineer at Trace Cognitive Engineering. 
 
 Maguire tweets as [@LauraMDMaguire](https://twitter.com/lauramdmaguire).
 
@@ -869,6 +869,8 @@ Maguire tweets as [@LauraMDMaguire](https://twitter.com/lauramdmaguire).
 * [Managing the Hidden Costs of Coordination](https://queue.acm.org/detail.cfm?id=3380779)
 * [Controlling the Costs of Coordination in Large-scale Distributed Software Systems](http://rave.ohiolink.edu/etdc/view?acc_num=osu1593661547087969) (PhD dissertation)
 * [Howie: The Post-Incident Guide](https://www.jeli.io/howie-the-post-incident-guide/)
+* [Cognitive Skills in Software Engineering: Operating Complex, Adaptive Systems at Speed and Scale](https://ieeexplore.ieee.org/document/10339148)
+* [Attention doesn't work the way we think it does](https://ieeexplore.ieee.org/document/10372510)
 
 ### Selected talks
 
