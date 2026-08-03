@@ -905,7 +905,7 @@ Macrae tweets at [@CarlMacrae](https://twitter.com/CarlMacrae).
 ## Laura Maguire
 
 [Maguire](https://www.linkedin.com/in/lauramaguire/) is a cognitive systems
-engineer and ressearcher with a PhD from Ohio State University. Maguire has done safety work in multiple domains, including forestry, healthcare, oil & gas, wildland firefighting, mountain safety, and software services. She formerly led research & development at [jeli.io](jeli.io), is the a Director of the [Resilience & Proactive Safety Initiative(https://u.osu.edu/csel/resilienceproactivesafetyinitiative/) at The Ohio State University's Cognitive Systems Engineering Lab and is the founder of [Trace Cognitive Engineering](https://www.tracecognitive.com/) and [Cognition In The Wild](cognitioninthewild.com) translating theory into practice for software and other industries. She also supervises Masters thesis projects for the College of Engineering at Lund University for the Human Factors & Systems Safety program. She was a founding member of the [SNAFUCatchers Consortium](https://www.snafucatchers.com/) conducting focused cognitive systems and resilience engineering research on software companies. 
+engineer and ressearcher with a PhD from Ohio State University. Maguire has done safety work in multiple domains, including forestry, healthcare, oil & gas, wildland firefighting, mountain safety, and software services. She formerly led research & development at [jeli.io](jeli.io), is the a Director of the [Resilience & Proactive Safety Initiative](https://u.osu.edu/csel/resilienceproactivesafetyinitiative/) at The Ohio State University's Cognitive Systems Engineering Lab and is the founder of [Trace Cognitive Engineering](https://www.tracecognitive.com/) and [Cognition In The Wild](cognitioninthewild.com) translating theory into practice for software and other industries. She also supervises Masters thesis projects for the College of Engineering at Lund University for the Human Factors & Systems Safety program. She was a founding member of the [SNAFUCatchers Consortium](https://www.snafucatchers.com/) conducting focused cognitive systems and resilience engineering research on software companies. 
 
 Maguire (rarely) tweets as [@LauraMDMaguire](https://twitter.com/lauramdmaguire).
 
@@ -932,7 +932,7 @@ Maguire (rarely) tweets as [@LauraMDMaguire](https://twitter.com/lauramdmaguire)
 
 ## Courtney Nash 
 
-Nash is a researcher and founder of [The Void] (https://www.thevoid.community/), a community-contributed collection of software-related incident reports, aimed at making the internet a safer and more resilient place.
+Nash is a researcher and founder of [The Void](https://www.thevoid.community/), a community-contributed collection of software-related incident reports, aimed at making the internet a safer and more resilient place.
 
 ## Christopher Nemeth
 
